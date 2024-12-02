@@ -1,4 +1,4 @@
-# Secure Communication System - Go
+# Secure Communication System (Go)
 
 ## Overview  
 The **Secure Communication System** is a project designed to ensure private and reliable data exchange over a network. It integrates modern encryption techniques, robust key management, and authentication mechanisms to protect against common security threats such as tampering and replay attacks.
